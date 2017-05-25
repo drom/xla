@@ -1,2 +1,1 @@
-# xla
-XLA JavaScript toolbox
+TensorFlow XLA JavaScript toolbox
